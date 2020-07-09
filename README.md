@@ -1,4 +1,5 @@
 # hello-android-kotlin
 Example Android Kotlin Project
 
-![emulator](emulator.png)
+![emulator](pic1.png)
+![emulator](pic2.png)
