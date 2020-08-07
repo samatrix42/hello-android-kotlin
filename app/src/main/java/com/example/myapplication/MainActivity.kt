@@ -14,9 +14,6 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             val builder = AlertDialog.Builder(this)
             builder.setMessage("What's blue and not very heavy? Light blue.")
-
-            builder.setPositiveButton(android.R.string.yes) { dialog, which ->
-            }
             builder.show()
         }
     }
